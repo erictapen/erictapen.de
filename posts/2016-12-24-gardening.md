@@ -8,4 +8,4 @@ Dieser Ansatz skaliert gut auf große Flächen, weil nur wenige Traktoren benöt
 
 Die Vorteile moderner CNC- und Computervision-Technologie sind, dass selbst komplexe, auf die jeweilige Pflanze angepasste Operationen von Maschinen durchführbar sind, solange sie über ausreichend viele und genaue Daten über die Pflanze und die Möglichkeit einer flexiblen und genauen Positionierung des Werkzeuges relativ zur Pflanze verfügen. 
 
-Im folgenden soll ein System vorgestellt werden, dass die großflächige Bewegung eines komplexen Werkzeuges über ein Feld ermöglicht, dass ohne die Nachteile von Traktoren auskommt.  
+Im folgenden soll ein System vorgestellt werden, dass die großflächige Bewegung eines komplexen Werkzeuges über ein Feld ermöglicht, dass ohne die Nachteile von Traktoren auskommt.
