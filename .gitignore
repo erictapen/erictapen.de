@@ -1,1 +1,2 @@
 *.html
+!pandoc-template.html
