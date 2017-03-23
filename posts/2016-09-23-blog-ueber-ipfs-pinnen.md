@@ -2,6 +2,11 @@
 title: Diesen Blog über IPFS pinnen
 ---
 
+**Hinweis**: In der Zwischenzeit hat sich mein IPNS-Link geändert. Der Blog liegt gerade unter 
+```
+/ipns/QmbVNTvtyTgsaAmqzegfo4XXoJ1szghFEr8ZsmNvg2M9SB/erictapen.de/
+```
+
 ## Einleitendes über IPFS
 
 Dieser Blog wird über das Inter Planetary File System ([IPFS](https:ipfs.io)) gehostet. Das bedeutet, dass die Webseite nicht auf einem zentralen Server liegt, sondern verteilt in einem Peer-to-Peer-Netzwerk. Fragt man das Netzwerk nach dieser Webseite, so bekommt man sie von dem nächsten Knoten, der sie hat. Das kann der Mensch nebenan sein oder jemand auf der anderen Seite der Welt, je nachdem welche Peers die Datei gespeichert haben.
