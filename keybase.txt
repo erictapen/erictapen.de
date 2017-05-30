@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/erictapen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://erictapen.de
+  * I am erictapen (https://keybase.io/erictapen) on keybase.
+  * I have a public key with fingerprint CB61 76A6 007B E645 F81E  D45F B0CA ADC1 8098 86A1
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013dc13992fa677b19f4be48c682a6eb3d037613e6bc1283ca5f90079fc38574970a",
+            "fingerprint": "cb6176a6007be645f81ed45fb0caadc1809886a1",
+            "host": "keybase.io",
+            "key_id": "b0caadc1809886a1",
+            "kid": "01013dc13992fa677b19f4be48c682a6eb3d037613e6bc1283ca5f90079fc38574970a",
+            "uid": "7d341e341ca4ad2608688fb175884119",
+            "username": "erictapen"
+        },
+        "service": {
+            "hostname": "erictapen.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1496188362,
+    "expire_in": 157680000,
+    "prev": "eae3b3a8fc89d00f46a04f3cd23947a8d3107c5b580f2996c77c697da72557a0",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmtMFFcU3uUh7BJbLEgF3ZYdbUrKIzM77zUSjQjWR4ottmxjs9yZubOM0J3t
+7LC4EgqkjVFbZA2Y0toEYYVCKpbGKilRXlrlURDlITYtCYomRdpS+VFspe0MqX+a
+/uxNbk7uud/3ne+cnMDKUEOksW2gtae89lC9cfBHzuBIC/+lBOFkwY/YS5ACuBxg
+oQC9qrNAEhA7gmIohgs8hrOsTQQUTXMYKxIcJBieYmyAghwuoDhNYTikOB6zMTgP
+SJFFUZoVeZwhaYKlUYCkIKLkdkHFo0huVZPlOQqjKUBpOA5SBCkyGBS0wKE8AFo5
+BmUZhgKYRsyXvTpDM8cBL0yTZC2nPZzL9v4D/z/7LlqWowWcwKB2eUAAwUahDMUw
+IofRJMMQGMbqQC9U3OBtqKGhIvEq8EA3UpqCaGmfxEN9snor/4akCVAjexRZlXm5
+UPvJV1WPXSeqfo+OLIac8x8NJye5BW2OGsEHFa8kuxE7piF5VdJFMYKlMIbBKVsK
+Ag94JAU6JR1B0hSDakcvA316cQBxDge5jMgzrICiIkEBlBBxXrDhLEEDRsAxlOZJ
+jmRQ0cayFE/TPMXSAqBtJEkDFNHbesctI3ZK8wlcmqZXcrmBWqRApNR8JAQPMxgj
+DZY4a9gg8DUZSu5vW3xuzPlk98JD9MUzmE3RTzKXsqMNwdpYl1RYwzd/G39TTuit
+tDeM/G55OjL0efzN6PE9HY/vKdDS0zMTecE0cO1Kbm6Ya8W9n2AW+3HN8IOMg82P
+Wm2GZybr4eXXyUrvjbgPX7m6wXjDjx9o7YixzuwY3bn++sx84pcda2MnSoMzZap6
+N27/1JmKfQ7Hwqy1uaRnOFi1vnz1sTXd5+PPvZZaJrdQS+/3WJXuX093fm0m6rHU
+p+6evK16NnO1066mJdJvKZnJ/ChwIsI34IOJ57/Z/ar1WFl6IGP8UeXBs+acN6zl
+s+nbzQk/b8QXzqYWv8RPzI1m5KF191ddPHoh+EKVaToh7/qpmMU/IpakFV1tD5Ie
+frdr+uXyurfy8a2Ko9uzELjZe6SdTZ88SSLzxtyhF63nQrviBjetdFw71Frd6O87
+fMcgdzP9S9kR+cW7pNrJ0OT+3bww0b4m9lbsqi2fNghH+xoiunLea7x4PLzpyhd4
+9ab9Y8Wz9YOr46OGhoI7PzPdGve/WyM9nJiiKzLGsiKiKhJTYWpSNmz/ZE/ISG2B
+mpezeUq6FD16xvTY/WeHBexb3NGI57ZUEYXuztnp3ljo5UZ6sfnD+TH9yfGdaR8E
+++C228Nla+eqk0/3bzTvPVX3efzVlhOj67Z3mL4v2vBXlLIly1HH0M9mbs2881tS
+QPkB4G1zU5fXfQWFbMteO4sZ/wY=
+=GA1A
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/erictapen
+
+==================================================================
+
