@@ -6,7 +6,7 @@ stdenv.mkDerivation {
 
   src = ./.;
   
-  propagatedBuildInputs = with pkgs; [
+  buildInputs = with pkgs; [
     pandoc
   ];
 
