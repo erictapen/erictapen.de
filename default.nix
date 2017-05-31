@@ -28,5 +28,6 @@ stdenv.mkDerivation {
     cp tuebix.flf $out/tuebix.flf
     cp wikipedia-tree-alpha.png $out/wikipedia-tree-alpha.png
     cp wikipedia-tree.png $out/wikipedia-tree.png
+    cp keybase.txt $out/keybase.txt
   '';
 }
