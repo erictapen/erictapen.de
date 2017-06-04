@@ -4,7 +4,7 @@ title: Diesen Blog über IPFS pinnen
 
 **Hinweis**: In der Zwischenzeit hat sich mein IPNS-Link geändert. Der Blog liegt gerade unter 
 ```
-/ipns/QmbVNTvtyTgsaAmqzegfo4XXoJ1szghFEr8ZsmNvg2M9SB/erictapen.de/
+/ipns/Qmea9dCZu6iB1yKb6pDYvBDyKuix1gRNpzUK1W3X2cqufK/erictapen.de/
 ```
 
 ## Einleitendes über IPFS
