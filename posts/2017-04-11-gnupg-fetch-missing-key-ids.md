@@ -4,7 +4,7 @@ title: Fetch missing GnuPG key IDs
 
 I just had a look at the signatures in my keyring and noticed alot of missing key IDs. 
 
-I had a look for some sort of automation for fetching missing keys, but realised, that it would not make much sense to make this easily available, as this would very probably fetch the whole [strong set of the Web of Trust](), containing several thousend keys, if applied repeatedly. 
+I had a look for some sort of automation for fetching missing keys, but realised, that it would not make much sense to make this easily available, as this would very probably fetch the whole [strong set of the Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust#Strong_set), containing several thousend keys, if applied repeatedly. 
 
 For one- or two-time-use I made this little hack.
 
