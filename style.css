@@ -14,7 +14,8 @@ body{
 
 h1{
   font-size: 400%;
-  line-height: 3em;
+  line-height: 1em;
+  text-align: left;
 }
 
 pre code{
